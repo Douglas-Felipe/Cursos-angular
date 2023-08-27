@@ -1,0 +1,30 @@
+footer {
+  background-color: #050C42;
+  height: 83px;
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+.social-container {
+  width: 80px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.social-link {
+  width: 35px;
+  height: 35px;
+}
+
+.social-link img {
+  width: 100%
+}
+
+
